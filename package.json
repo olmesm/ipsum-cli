@@ -1,0 +1,20 @@
+{
+	"name": "lorem-cli",
+	"version": "1.0.0",
+	"description": "Generate Lorem ipsum via the commandline",
+	"main": "bin/index.js",
+	"bin": {
+		"lorem": "./bin/index.js"
+	},
+	"keywords": [
+		"lorem ipsum",
+		"terminal",
+		"cli",
+		"text generator"
+	],
+	"author": "Oliver Smit <github.com/olmesm>",
+	"license": "MIT",
+	"dependencies": {
+		"clipboardy": "*"
+	}
+}
