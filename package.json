@@ -1,10 +1,10 @@
 {
-	"name": "lorem-cli",
+	"name": "ipsum-cli",
 	"version": "1.0.0",
 	"description": "Generate Lorem ipsum via the commandline",
 	"main": "bin/index.js",
 	"bin": {
-		"lorem": "./bin/index.js"
+		"ipsum": "./bin/index.js"
 	},
 	"keywords": [
 		"lorem ipsum",

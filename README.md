@@ -1,4 +1,4 @@
-# Lorem cli
+# Ipsum cli
 
 Copy Lorem Ipsum text into your clipboard from the cli.
 
@@ -6,14 +6,14 @@ Defaults to 3 paragraphs, but accepts an additional number argument between 1-20
 
 ```bash
 # Running via npx
-npx lorem-cli <qty>
+npx ipsum-cli <qty>
 
 # Install Globally
-npm install -g lorem-cli
-lorem <qty>
+npm install -g ipsum-cli
+ipsum <qty>
 
 # Uninstall
-npm uninstall -g lorem-cli
+npm uninstall -g ipsum-cli
 ```
 
 ## Developing
@@ -23,10 +23,10 @@ node . <qty>
 
 # Test Globally
 npm install -g .
-lorem <qty>
+ipsum <qty>
 
 # Uninstall
-npm uninstall -g lorem-cli
+npm uninstall -g ipsum-cli
 ```
 
 ### Resources
