@@ -17,7 +17,7 @@
 		"clipboardy": "*"
 	},
 	"files": [
-		"bin/index.js"
+		"bin"
 	],
 	"keywords": [
 		"lorem ipsum",
