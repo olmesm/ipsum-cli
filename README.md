@@ -2,7 +2,7 @@
 
 Copy Lorem Ipsum text into your clipboard from the cli.
 
-Defaults to 3 paragraphs, but accepts an additional number argument between 1-20.
+Defaults to 3 paragraphs, but accepts an optional number argument between 1-20.
 
 ```bash
 # Running via npx
@@ -29,6 +29,6 @@ ipsum <qty>
 npm uninstall -g ipsum-cli
 ```
 
-### Resources
+<!-- ### Resources
 
-- [Okta | Command Line Application with Node.js](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs)
+- [Okta | Command Line Application with Node.js](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs) -->
