@@ -1,6 +1,6 @@
 {
 	"name": "ipsum-cli",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Generate Lorem ipsum via the commandline",
 	"author": "Oliver Smit <github.com/olmesm>",
 	"repository": "olmesm/ipsum-cli",
