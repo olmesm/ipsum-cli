@@ -2,7 +2,7 @@
 
 Copy Lorem Ipsum text into your clipboard from the cli.
 
-Defaults to 3 paragraphs, but accepts an optional number argument between 1-20.
+Defaults to 3 paragraphs. Accepts an optional number argument between 1 - 50.
 
 ```bash
 # Running via npx
