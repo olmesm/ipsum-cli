@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const clipboardy = require("clipboardy");
-const loremText = require("./lorem.json");
+import clipboardy from "clipboardy";
+import loremText  from "./lorem.json";
 
 const DEFAULT_QTY = 3;
 
