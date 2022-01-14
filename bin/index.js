@@ -1,7 +1,15 @@
 #!/usr/bin/env node
-
+import { readFileSync } from "fs";
 import clipboardy from "clipboardy";
-import loremText  from "./lorem.json";
+import { fileURLToPath } from "url";
+import { dirname, sep } from "path";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const loremText = JSON.parse(
+	readFileSync([__dirname, "lorem.json"].join(sep), "utf-8")
+);
 
 const DEFAULT_QTY = 3;
 
