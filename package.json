@@ -4,6 +4,7 @@
 	"description": "Generate Lorem ipsum via the commandline",
 	"author": "Oliver Smit <github.com/olmesm>",
 	"repository": "olmesm/ipsum-cli",
+        "type": "module",
 	"bugs": {
 		"url": "https://github.com/olmesm/ipsum-cli/issues"
 	},
